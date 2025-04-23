@@ -1,3 +1,4 @@
 **/.vscode/*
 credential/*.json
-**/token.json
+**/token*.json
+**__pycache__/*
